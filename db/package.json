@@ -1,0 +1,12 @@
+{
+  "name": "passport-db",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --watch ./db.json --port 5000"
+  },
+  "author": "Filipe Corrêa <filipecorrea@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
