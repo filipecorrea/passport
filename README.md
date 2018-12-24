@@ -4,9 +4,23 @@
 
 - [Node.js](https://nodejs.org)
 
+## Database
+
+From `database` directory, instal dependencies:
+
+```
+npm install
+```
+
+From `database` directory, start database server:
+
+```
+npm start
+```
+
 ## Server
 
-From `server` directory, instal project dependencies:
+From `server` directory, instal dependencies:
 
 ```
 npm install
@@ -15,7 +29,7 @@ npm install
 From `server` directory, start server:
 
 ```
-npm run start:dev
+npm start
 ```
 
 ## Client
