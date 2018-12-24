@@ -62,3 +62,6 @@ typings/
 
 # Server sessions
 server/sessions
+
+# Client cookies
+client/cookies
