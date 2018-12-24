@@ -1,5 +1,7 @@
 # Passport
 
+Node.js server and client authentication using Passport.
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org)
